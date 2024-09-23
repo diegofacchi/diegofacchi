@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @diegofacchi
+- 👀 I’m interested in data analysis, software development, and backend systems.
+- 🌱 I’m currently learning Python and MySQL, focusing on database integration and automation.
+- 💞️ I’m looking to collaborate on open-source Python projects or database management systems.
+- 📫 How to reach me: www.linkedin.com/in/diegofacchinetti
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m currently living in Ireland and love exploring new places and cultures.
