@@ -2,6 +2,5 @@
 - 👀 I’m interested in data analysis, software development, and backend systems.
 - 🌱 I’m currently learning Python and MySQL, focusing on database integration and automation.
 - 💞️ I’m looking to collaborate on open-source Python projects or database management systems.
-- 📫 How to reach me: www.linkedin.com/in/diegofacchinetti
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m currently living in Ireland and love exploring new places and cultures.
+- 📫 How to reach me: [linkedin.com/in/diegofacchinetti](https://www.linkedin.com/in/diegofacchinetti)
+- ⚡ Fun fact: Since moving to Ireland, I’ve developed a real appreciation for Guinness and Irish coffee!
