@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Diego and I'm a Python developer, currently living in Ireland.</p>
+<p align="left">Hi 👋 I’m Diego, a Data Analyst with experience in Power BI, Python, SQL, and backend development.</p>
 
 ###
 
@@ -33,9 +33,4 @@
   <a href="https://www.instagram.com/diegofacchinetti/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="mailto:diegofacchinetti01@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
-
-###
